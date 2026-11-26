@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2023-c-eval
 excerpt: 'Published at NeurIPS 2023.'
-date: "2023"
+date: 2023-01-01
 venue: 'NeurIPS 2023'
 paperurl:
 citation: 'Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, 俊腾 Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, 俊腾 He. (2023). "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models." NeurIPS 2023.'
